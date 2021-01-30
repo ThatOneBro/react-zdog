@@ -150,6 +150,7 @@ export {
   Illustration,
   useRender,
   useZdog,
+  createZdog,
   Anchor,
   Shape,
   Group,
