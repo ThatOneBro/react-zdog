@@ -147,6 +147,7 @@ const Cone = createZdog(Zdog.Cone)
 const Box = createZdog(Zdog.Box)
 
 export {
+  Zdog,
   Illustration,
   useRender,
   useZdog,
